@@ -1,0 +1,2 @@
+Main-Class: com.thoughtworks.step.Calculator;
+Class-Path: ./lib/math.jar;

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lotion">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lotion-GlitchRemo/lotion.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
